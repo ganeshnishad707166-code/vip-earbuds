@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIP Earbuds</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>VIP Earbuds</h1>
+
+    <img src="earbuds.jpg" width="300" alt="VIP Earbuds">
+
+    <h2>Price: ₹10</h2>
+
+    <button>Buy Now</button>
+
+    <p>UPI ID: 8085824525@ybl</p>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
